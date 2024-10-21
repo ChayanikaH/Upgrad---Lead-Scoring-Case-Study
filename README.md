@@ -32,7 +32,7 @@
    - Final Prediction
 - Conclusion
 
-### Files submitted 
+### Files submitted by the team
 
 - Lead Scoring Case Study - FINAL (Python Notebook with the workings)
 - Assignment Subjective Questions (Word File containing the answers for subjective questions)
