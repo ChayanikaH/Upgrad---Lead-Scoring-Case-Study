@@ -21,15 +21,19 @@
 - Splitting the Data into Training and Testing Sets
 - Building logistic regression model
 - Evaluation of the Model
+  
    - Prediction
    - Confusion Matrix
    - Plotting the ROC 
    - Final model evaluation post the cut-off selection
+     
 - Prediction on the test set
+  
    - Predicting the final model
    - Precision vs Recall
    - Cut-Off Validation
    - Final Prediction
+     
 - Conclusion
 
 ### Files submitted by the team
