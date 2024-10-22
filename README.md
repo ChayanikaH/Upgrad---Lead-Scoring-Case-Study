@@ -36,7 +36,7 @@
 
 - Lead Scoring Case Study - FINAL (Python Notebook with the workings)
 - Assignment Subjective Questions (Word File containing the answers for subjective questions)
-- Presentation File
-- Excecutive Summary
+- Lead scoring case study ppt (PDF file containing the presentation of the case study)
+- Lead Scoring Case Study summary report (PDF file containing the executive summary of the case study)
 - Leads.csv (Data file used for working)
 - Leads Data Dictionary (Data Dictionary for the working dataset)
